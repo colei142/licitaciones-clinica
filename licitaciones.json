@@ -1,0 +1,889 @@
+{
+  "actualizado": "2026-10-06T22:26:39.343Z",
+  "vigentes": 0,
+  "llamados": [
+    {
+      "id": "1376656",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1376656",
+      "titulo": "Compra Directa 16822/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-06T11:20",
+      "publicado": "2026-10-02T11:15",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Potencial evocado auditivo (24558)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1376375",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1376375",
+      "titulo": "Compra Directa 16659/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Centro Hospitalario Pereira Rossell",
+      "objeto": "Estudios médicos , ped 26566, servicio Unidad de Estudios",
+      "recepcion_hasta": "2026-10-06T12:00",
+      "publicado": "2026-10-01T12:20",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo (24558)",
+        "Potencial evocado visual (33298)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1375509",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1375509",
+      "titulo": "Compra Directa 16613/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-01T09:48",
+      "publicado": "2026-09-29T09:30",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1374705",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1374705",
+      "titulo": "Concurso de Precios 11085/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-09-29T15:30",
+      "publicado": "2026-09-24T12:55",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Estudio eléctrico de 4 miembros (34720)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1374105",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1374105",
+      "titulo": "Compra Directa 16183/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-25T07:11",
+      "publicado": "2026-09-23T07:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1374107",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1374107",
+      "titulo": "Compra Directa 16188/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-25T07:15",
+      "publicado": "2026-09-23T07:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1372844",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1372844",
+      "titulo": "Compra Directa 15913/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-22T07:00",
+      "publicado": "2026-09-17T14:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de 1 miembro inferior (78416)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1372825",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1372825",
+      "titulo": "Concurso de Precios 11061/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-09-22T15:30",
+      "publicado": "2026-09-17T13:50",
+      "estado": "Declarada sin efecto",
+      "apertura_electronica": true,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1372586",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1372586",
+      "titulo": "Concurso de Precios 11064/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-09-22T15:30",
+      "publicado": "2026-09-17T09:10",
+      "estado": "Declarada sin efecto",
+      "apertura_electronica": true,
+      "motivos": [
+        "Polisomnografía - niño (35140)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1371063",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1371063",
+      "titulo": "Compra Directa 15509/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona Pago SIIF",
+      "recepcion_hasta": "2026-09-15T08:00",
+      "publicado": "2026-09-11T07:35",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1370446",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1370446",
+      "titulo": "Concurso de Precios 11046/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-09-14T15:30",
+      "publicado": "2026-09-09T11:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1370373",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1370373",
+      "titulo": "Compra Directa 15341/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-11T11:00",
+      "publicado": "2026-09-09T10:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1370366",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1370366",
+      "titulo": "Compra Directa 15357/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF.",
+      "recepcion_hasta": "2026-09-11T10:35",
+      "publicado": "2026-09-09T10:30",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1369905",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1369905",
+      "titulo": "Compra Directa 15103/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-10T08:30",
+      "publicado": "2026-09-08T07:30",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1368779",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1368779",
+      "titulo": "Compra Directa 15026/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-09-07T10:00",
+      "publicado": "2026-09-03T10:00",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - niño (24457)",
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1366876",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1366876",
+      "titulo": "Concurso de Precios 11006/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-09-01T15:30",
+      "publicado": "2026-08-27T10:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo (24558)",
+        "Potencial evocado visual (33298)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1366777",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1366777",
+      "titulo": "Compra Directa 14378/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-31T08:10",
+      "publicado": "2026-08-27T08:00",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico pares craneales (24221)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1366530",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1366530",
+      "titulo": "Concurso de Precios 91/2026",
+      "organismo": "Ministerio del Interior",
+      "unidad": "Dirección Nacional de Sanidad Policial",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS DE ELECTROENCEFALOGRAMAS Y POTENCIALES EVOCADOS.-COTIZAR DE ACUERDO AL PLIEGO ADJUNTO.-",
+      "recepcion_hasta": "2026-09-08T10:00",
+      "publicado": "2026-08-26T13:50",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Polisomnografía - adulto (24557)",
+        "Potencial evocado auditivo (24558)",
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Polisomnografía - niño (35140)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1366472",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1366472",
+      "titulo": "Concurso de Precios 10924/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "Contratación de una clínica que realice estudios de Oximetría para beneficiarios de la Gerencia de Prestaciones de Salud del BPS, en el departamento de Montevideo.",
+      "recepcion_hasta": "2026-09-16T14:00",
+      "publicado": "2026-08-26T09:45",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Saturometría durante sueño - adulto (66138)",
+        "Saturometría durante sueño - pediátrico (77903)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1365433",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1365433",
+      "titulo": "Compra Directa 14146/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-24T09:24",
+      "publicado": "2026-08-20T09:20",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1365437",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1365437",
+      "titulo": "Compra Directa 14163/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-24T09:40",
+      "publicado": "2026-08-20T09:20",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1365073",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1365073",
+      "titulo": "Concurso de Precios 10994/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-08-24T15:30",
+      "publicado": "2026-08-19T09:25",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "EEG prolongado - niño (79421)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1364823",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1364823",
+      "titulo": "Concurso de Precios 452/2026",
+      "organismo": "Ministerio de Defensa Nacional",
+      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
+      "objeto": "ESTUDIOS NEUROPSICOLOGICOS",
+      "recepcion_hasta": "2026-09-11T10:00",
+      "publicado": "2026-08-18T12:25",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1364567",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1364567",
+      "titulo": "Concurso de Precios 10981/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-08-20T16:30",
+      "publicado": "2026-08-17T16:25",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1364557",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1364557",
+      "titulo": "Concurso de Precios 10982/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-08-20T16:00",
+      "publicado": "2026-08-17T16:00",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo del tallo cerebral - pediátrico (79960)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1362076",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1362076",
+      "titulo": "Compra Directa 13452/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-11T07:50",
+      "publicado": "2026-08-07T07:40",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1361744",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1361744",
+      "titulo": "Compra Directa 13296/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-10T08:28",
+      "publicado": "2026-08-06T08:25",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1361192",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1361192",
+      "titulo": "Compra Directa 13197/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-08-06T11:30",
+      "publicado": "2026-08-04T11:25",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - niño (24457)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1360036",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1360036",
+      "titulo": "Concurso de Precios 10942/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-08-04T15:30",
+      "publicado": "2026-07-30T09:45",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Estudio eléctrico de 4 miembros (34720)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1359600",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1359600",
+      "titulo": "Compra Directa 12714/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-31T07:25",
+      "publicado": "2026-07-29T07:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de 4 miembros (34720)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1357944",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1357944",
+      "titulo": "Concurso de Precios 10920/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-07-27T15:30",
+      "publicado": "2026-07-22T10:40",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Polisomnografía - adulto (24557)",
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1357634",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1357634",
+      "titulo": "Compra Directa 12302/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-23T12:10",
+      "publicado": "2026-07-21T12:00",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1357116",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1357116",
+      "titulo": "Compra Directa 12096/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-22T07:40",
+      "publicado": "2026-07-20T07:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electromiografía de 2 miembros (33122)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1356596",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1356596",
+      "titulo": "Concurso de Precios 10897/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-07-21T15:30",
+      "publicado": "2026-07-16T14:30",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo (24558)",
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Polisomnografía - niño (35140)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1355933",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355933",
+      "titulo": "Compra Directa 11728/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Red de Atención Primaria de San José",
+      "objeto": "ESTUDIOS VARIOS PARA SEIS MESES",
+      "recepcion_hasta": "2026-07-17T10:00",
+      "publicado": "2026-07-14T13:45",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de miembros inferiores (34718)",
+        "Estudio eléctrico de miembros superiores (34719)",
+        "Estudio eléctrico de 1 miembro inferior (78416)",
+        "Estudio eléctrico de 1 miembro superior (78417)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1355698",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355698",
+      "titulo": "Concurso de Precios 10890/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-07-17T15:30",
+      "publicado": "2026-07-14T08:55",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado visual (33298)",
+        "Polisomnografía - niño (35140)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1355251",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355251",
+      "titulo": "Compra Directa 11666/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF.",
+      "recepcion_hasta": "2026-07-15T07:20",
+      "publicado": "2026-07-13T07:25",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1355248",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355248",
+      "titulo": "Compra Directa 11668/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-15T07:20",
+      "publicado": "2026-07-13T07:20",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1354455",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1354455",
+      "titulo": "Compra Directa 11235/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-10T12:40",
+      "publicado": "2026-07-08T12:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1353806",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1353806",
+      "titulo": "Concurso de Precios 10127/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "Contratación de un servicio de estudios más frecuentes para beneficiarios de la Gerencia de Prestaciones de Salud.",
+      "recepcion_hasta": "2026-07-20T14:00",
+      "publicado": "2026-07-06T15:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado visual (33298)",
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1353589",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1353589",
+      "titulo": "Concurso de Precios 10874/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-07-09T15:30",
+      "publicado": "2026-07-06T14:47",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Estudio eléctrico de 4 miembros (34720)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1349057",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1349057",
+      "titulo": "Compra Directa 1048/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital Maciel",
+      "objeto": "ESTUDIOS MEDICOS; EEG ( URGENTE)VER ADJUNTO",
+      "recepcion_hasta": "2026-07-09T10:00",
+      "publicado": "2026-07-01T07:35",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1352563",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1352563",
+      "titulo": "Compra Directa 10885/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-07-03T07:20",
+      "publicado": "2026-07-01T07:15",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1351687",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1351687",
+      "titulo": "Concurso de Precios 10845/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-07-01T15:30",
+      "publicado": "2026-06-26T14:20",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Polisomnografía - adulto (24557)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1350149",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1350149",
+      "titulo": "Concurso de Precios 10836/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-06-25T15:30",
+      "publicado": "2026-06-22T13:30",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado visual (33298)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1349883",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1349883",
+      "titulo": "Compra Directa 10265/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-06-24T07:15",
+      "publicado": "2026-06-22T07:05",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1348934",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1348934",
+      "titulo": "Compra Directa 265/2026",
+      "organismo": "Ministerio de Defensa Nacional",
+      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
+      "objeto": "MONITOREO ELECTROENCEFALOGRAFICO INTRAOPERATORIO EN NEUROCIRUGÍA Y CONTROL DE NERVIO FACIAL",
+      "recepcion_hasta": "2026-06-30T10:00",
+      "publicado": "2026-06-16T12:20",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Monitoreo electroencefalográfico intraoperatorio (63161)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1347538",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1347538",
+      "titulo": "Concurso de Precios 10795/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-06-15T15:30",
+      "publicado": "2026-06-10T12:45",
+      "estado": "Declarada desierta",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo del tallo cerebral - adulto (79959)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1347209",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1347209",
+      "titulo": "Concurso de Precios 10767/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-06-12T15:30",
+      "publicado": "2026-06-09T15:25",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - niño (24457)",
+        "Potencial evocado auditivo (24558)",
+        "Potencial evocado visual (33298)",
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1346691",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1346691",
+      "titulo": "Concurso de Precios 10779/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-06-11T15:30",
+      "publicado": "2026-06-08T13:35",
+      "estado": "Adjudicada totalmente",
+      "apertura_electronica": true,
+      "motivos": [
+        "Estudio eléctrico de 4 miembros (34720)",
+        "EEG bajo sueño inducido (102146)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1345530",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1345530",
+      "titulo": "Compra Directa 9224/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-06-08T07:00",
+      "publicado": "2026-06-03T14:10",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de 1 miembro superior (78417)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1345529",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1345529",
+      "titulo": "Compra Directa 9225/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-06-08T07:00",
+      "publicado": "2026-06-03T14:05",
+      "estado": "Adjudicada parcialmente",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de miembros superiores (34719)"
+      ],
+      "visto_en": "2026-10-06"
+    },
+    {
+      "id": "1344896",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1344896",
+      "titulo": "Licitación Abreviada 243/2026",
+      "organismo": "Ministerio de Defensa Nacional",
+      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
+      "objeto": "ESTUDIOS ELECTRICOS",
+      "recepcion_hasta": "2026-06-18T10:00",
+      "publicado": "2026-06-01T15:55",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Estudio eléctrico de miembros inferiores (34718)",
+        "Estudio eléctrico de miembros superiores (34719)",
+        "Estudio eléctrico de 4 miembros (34720)",
+        "Estudio eléctrico del nervio facial (46222)",
+        "Estudio eléctrico - miastenia (74487)",
+        "Estudio eléctrico de 1 miembro inferior (78416)",
+        "Estudio eléctrico de 1 miembro superior (78417)"
+      ],
+      "visto_en": "2026-10-06"
+    }
+  ]
+}

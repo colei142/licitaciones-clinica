@@ -1,0 +1,66 @@
+# Va en .github/workflows/licitaciones.yml del repositorio del robot.
+# Corre el robot cada hora en horario de oficina de Uruguay y avisa de cada llamado nuevo.
+name: Robot de licitaciones
+
+on:
+  schedule:
+    - cron: '0 10-21 * * 1-5' # lunes a viernes, cada hora de 7:00 a 18:00 (hora de Uruguay; GitHub usa UTC)
+    - cron: '0 13 * * 6'      # sábados a las 10:00
+  workflow_dispatch: # también se puede correr a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Montevideo
+      # Para avisar por correo, cargar estos secretos en el repositorio (Settings → Secrets):
+      # MAIL_USUARIO (una casilla de Gmail), MAIL_CLAVE (contraseña de aplicación) y MAIL_PARA (a quién avisar).
+      MAIL_USUARIO: ${{ secrets.MAIL_USUARIO }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Revisar compras estatales
+        run: node robot/licitaciones.mjs licitaciones.json
+      - name: Guardar si hay cambios
+        run: |
+          git config user.name "robot-licitaciones"
+          git config user.email "robot@users.noreply.github.com"
+          git add licitaciones.json
+          git diff --cached --quiet || git commit -m "Licitaciones: $(date +'%d/%m/%Y %H:%M')"
+          git push
+      - name: Avisar en GitHub (un aviso por llamado nuevo; GitHub manda el correo)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create licitacion --color D93F0B --description "Llamado abierto que pide estudios de la clínica" 2>/dev/null || true
+          n=$(jq length nuevos.json)
+          for i in $(seq 0 $((n - 1))); do
+            titulo=$(jq -r ".[$i] | \"Licitación abierta: \(.titulo) · \(.unidad // .organismo) · cierra \(.recepcion_hasta | sub(\"T\"; \" \"))\"" nuevos.json)
+            cuerpo=$(jq -r ".[$i] | \"**\(.organismo)** · \(.unidad)\n\n\(.objeto)\n\n- Recepción de ofertas hasta: **\(.recepcion_hasta | sub(\"T\"; \" \"))**\n- Publicado: \(.publicado | sub(\"T\"; \" \"))\n- Estudios que piden: \(.motivos | join(\", \"))\n\n[Ver el llamado en compras estatales](\(.url))\"" nuevos.json)
+            gh issue create --title "$titulo" --body "$cuerpo" --label licitacion || true
+          done
+          echo "Avisos creados: $n"
+      - name: Avisar por correo (solo si está configurado)
+        if: env.MAIL_USUARIO != ''
+        run: |
+          n=$(jq length nuevos.json)
+          [ "$n" -gt 0 ] || { echo "Nada nuevo, no se manda correo"; exit 0; }
+          jq -r '.[] | "\(.titulo) · \(.unidad // .organismo)\n\(.objeto)\nCierra: \(.recepcion_hasta | sub("T"; " "))\nPiden: \(.motivos | join(", "))\n\(.url)\n"' nuevos.json > cuerpo.txt
+          echo "ASUNTO=Licitaciones: $n llamado(s) nuevo(s) para la clínica" >> "$GITHUB_ENV"
+      - uses: dawidd6/action-send-mail@v3
+        if: env.MAIL_USUARIO != '' && env.ASUNTO != ''
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USUARIO }}
+          password: ${{ secrets.MAIL_CLAVE }}
+          subject: ${{ env.ASUNTO }}
+          to: ${{ secrets.MAIL_PARA }}
+          from: Robot de licitaciones
+          body: file://cuerpo.txt
