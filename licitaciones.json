@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-06T22:34:58.866Z",
-  "vigentes": 4,
+  "actualizado": "2026-10-07T17:22:35.334Z",
+  "vigentes": 3,
   "llamados": [
+    {
+      "id": "1377752",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1377752",
+      "titulo": "Compra Directa 16966/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-09T10:24",
+      "publicado": "2026-10-07T10:05",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Polisomnografía - adulto (24557)"
+      ],
+      "visto_en": "2026-10-07"
+    },
     {
       "id": "1376784",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1376784",
@@ -45,7 +61,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-10-06T11:20",
       "publicado": "2026-10-02T11:15",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": false,
       "motivos": [
         "Potencial evocado auditivo (24558)"
@@ -862,38 +878,6 @@
       "motivos": [
         "Estudio eléctrico de 4 miembros (34720)",
         "EEG bajo sueño inducido (102146)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1345530",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1345530",
-      "titulo": "Compra Directa 9224/2026",
-      "organismo": "Administración de Servicios de Salud del Estado",
-      "unidad": "Hospital de San Carlos",
-      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
-      "recepcion_hasta": "2026-06-08T07:00",
-      "publicado": "2026-06-03T14:10",
-      "estado": "Adjudicada parcialmente",
-      "apertura_electronica": false,
-      "motivos": [
-        "Estudio eléctrico de 1 miembro superior (78417)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1345529",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1345529",
-      "titulo": "Compra Directa 9225/2026",
-      "organismo": "Administración de Servicios de Salud del Estado",
-      "unidad": "Hospital de San Carlos",
-      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
-      "recepcion_hasta": "2026-06-08T07:00",
-      "publicado": "2026-06-03T14:05",
-      "estado": "Adjudicada parcialmente",
-      "apertura_electronica": false,
-      "motivos": [
-        "Estudio eléctrico de miembros superiores (34719)"
       ],
       "visto_en": "2026-10-06"
     },
