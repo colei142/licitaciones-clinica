@@ -1,7 +1,27 @@
 {
-  "actualizado": "2026-10-08T17:17:41.038Z",
-  "vigentes": 1,
+  "actualizado": "2026-10-08T23:04:37.003Z",
+  "vigentes": 2,
   "llamados": [
+    {
+      "id": "1378420",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1378420",
+      "titulo": "Concurso de Precios 9910/2026",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "Servicio de estudios otorrinolaringológicos para beneficiarios de la Gerencia de Prestaciones de Salud del BPS.",
+      "recepcion_hasta": "2026-10-23T14:00",
+      "publicado": "2026-10-08T16:45",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo (24558)",
+        "Potencial evocado auditivo estado estable - adulto (79957)",
+        "Potencial evocado auditivo estado estable - pediátrico (79958)",
+        "Potencial evocado auditivo del tallo cerebral - adulto (79959)",
+        "Potencial evocado auditivo del tallo cerebral - pediátrico (79960)"
+      ],
+      "visto_en": "2026-10-08"
+    },
     {
       "id": "1377752",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1377752",
