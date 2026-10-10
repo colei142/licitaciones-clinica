@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T21:33:04.838Z",
-  "vigentes": 2,
+  "actualizado": "2026-10-10T17:34:20.966Z",
+  "vigentes": 1,
   "llamados": [
     {
       "id": "1378420",
@@ -881,23 +881,6 @@
         "Potencial evocado auditivo (24558)",
         "Potencial evocado visual (33298)",
         "EEG prolongado - niño (79421)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1346691",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1346691",
-      "titulo": "Concurso de Precios 10779/2026",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-06-11T15:30",
-      "publicado": "2026-06-08T13:35",
-      "estado": "Adjudicada totalmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Estudio eléctrico de 4 miembros (34720)",
-        "EEG bajo sueño inducido (102146)"
       ],
       "visto_en": "2026-10-06"
     },
