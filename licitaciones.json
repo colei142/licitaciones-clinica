@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-10-13T22:26:12.515Z",
-  "vigentes": 1,
+  "actualizado": "2026-10-14T14:58:22.429Z",
+  "vigentes": 2,
   "llamados": [
+    {
+      "id": "1379179",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1379179",
+      "titulo": "Compra Directa 17386/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-16T08:35",
+      "publicado": "2026-10-14T08:30",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico pares craneales (24221)",
+        "Estudio eléctrico de 4 miembros (34720)",
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-10-14"
+    },
     {
       "id": "1378420",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1378420",
@@ -846,22 +864,6 @@
       "apertura_electronica": true,
       "motivos": [
         "Monitoreo electroencefalográfico intraoperatorio (63161)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1347538",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1347538",
-      "titulo": "Concurso de Precios 10795/2026",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-06-15T15:30",
-      "publicado": "2026-06-10T12:45",
-      "estado": "Declarada desierta",
-      "apertura_electronica": true,
-      "motivos": [
-        "Potencial evocado auditivo del tallo cerebral - adulto (79959)"
       ],
       "visto_en": "2026-10-06"
     },
