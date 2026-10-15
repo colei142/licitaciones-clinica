@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-10-14T23:03:51.057Z",
-  "vigentes": 2,
+  "actualizado": "2026-10-15T14:46:55.382Z",
+  "vigentes": 3,
   "llamados": [
+    {
+      "id": "1379617",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1379617",
+      "titulo": "Compra Directa 530/2026",
+      "organismo": "Ministerio de Defensa Nacional",
+      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
+      "objeto": "ELECTROENCEFALOGRAMA Y VIDEO ELECTROENCEFALOGRAMA PARA ADULTOS Y NIÑOS",
+      "recepcion_hasta": "2026-10-27T10:00",
+      "publicado": "2026-10-15T09:10",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Video electroencefalograma (72794)",
+        "EEG prolongado - niño (79421)"
+      ],
+      "visto_en": "2026-10-15"
+    },
     {
       "id": "1379179",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1379179",
