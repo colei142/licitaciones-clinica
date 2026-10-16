@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-10-15T22:02:06.428Z",
-  "vigentes": 3,
+  "actualizado": "2026-10-16T14:39:26.162Z",
+  "vigentes": 4,
   "llamados": [
+    {
+      "id": "1379980",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1379980",
+      "titulo": "Compra Directa 17652/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-21T08:20",
+      "publicado": "2026-10-16T08:15",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de miembros inferiores (34718)",
+        "EEG con privación de sueño - adulto (102543)"
+      ],
+      "visto_en": "2026-10-16"
+    },
     {
       "id": "1379617",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1379617",
