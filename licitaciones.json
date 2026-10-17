@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T22:00:12.504Z",
-  "vigentes": 4,
+  "actualizado": "2026-10-17T16:04:38.860Z",
+  "vigentes": 3,
   "llamados": [
     {
       "id": "1379980",
@@ -899,28 +899,6 @@
       "apertura_electronica": true,
       "motivos": [
         "Monitoreo electroencefalográfico intraoperatorio (63161)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1344896",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1344896",
-      "titulo": "Licitación Abreviada 243/2026",
-      "organismo": "Ministerio de Defensa Nacional",
-      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
-      "objeto": "ESTUDIOS ELECTRICOS",
-      "recepcion_hasta": "2026-06-18T10:00",
-      "publicado": "2026-06-01T15:55",
-      "estado": "",
-      "apertura_electronica": true,
-      "motivos": [
-        "Estudio eléctrico de miembros inferiores (34718)",
-        "Estudio eléctrico de miembros superiores (34719)",
-        "Estudio eléctrico de 4 miembros (34720)",
-        "Estudio eléctrico del nervio facial (46222)",
-        "Estudio eléctrico - miastenia (74487)",
-        "Estudio eléctrico de 1 miembro inferior (78416)",
-        "Estudio eléctrico de 1 miembro superior (78417)"
       ],
       "visto_en": "2026-10-06"
     }
