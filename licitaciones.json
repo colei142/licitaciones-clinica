@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-20T22:16:54.398Z",
-  "vigentes": 4,
+  "actualizado": "2026-10-21T14:57:47.630Z",
+  "vigentes": 5,
   "llamados": [
+    {
+      "id": "1380988",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1380988",
+      "titulo": "Compra Directa 17812/2026",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-10-23T07:30",
+      "publicado": "2026-10-21T07:15",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de 4 miembros (34720)"
+      ],
+      "visto_en": "2026-10-21"
+    },
     {
       "id": "1380911",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1380911",
@@ -134,7 +150,7 @@
       "objeto": "Electroencefalogramas, ped 25614, servicio Unidad de estudios",
       "recepcion_hasta": "2026-10-07T10:00",
       "publicado": "2026-10-02T13:15",
-      "estado": "",
+      "estado": "Adjudicada totalmente",
       "apertura_electronica": true,
       "motivos": [
         "Electroencefalograma (EEG) - niño (24457)",
