@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T23:06:20.035Z",
-  "vigentes": 5,
+  "actualizado": "2026-10-22T15:03:53.886Z",
+  "vigentes": 4,
   "llamados": [
     {
       "id": "1380988",
@@ -44,7 +44,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-10-21T08:20",
       "publicado": "2026-10-16T08:15",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": false,
       "motivos": [
         "Estudio eléctrico de miembros inferiores (34718)",
