@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T23:11:58.533Z",
+  "actualizado": "2026-10-23T14:54:53.398Z",
   "vigentes": 4,
   "llamados": [
     {
@@ -900,22 +900,6 @@
       "motivos": [
         "Potencial evocado visual (33298)",
         "EEG bajo sueño inducido (102146)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1349883",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1349883",
-      "titulo": "Compra Directa 10265/2026",
-      "organismo": "Administración de Servicios de Salud del Estado",
-      "unidad": "Hospital de San Carlos",
-      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
-      "recepcion_hasta": "2026-06-24T07:15",
-      "publicado": "2026-06-22T07:05",
-      "estado": "Adjudicada parcialmente",
-      "apertura_electronica": false,
-      "motivos": [
-        "Polisomnografía - adulto (24557)"
       ],
       "visto_en": "2026-10-06"
     },
