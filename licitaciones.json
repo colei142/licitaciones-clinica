@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T21:44:16.857Z",
+  "actualizado": "2026-10-29T16:53:03.334Z",
   "vigentes": 0,
   "llamados": [
     {
@@ -883,22 +883,6 @@
       "motivos": [
         "Polisomnografía - adulto (24557)",
         "EEG bajo sueño inducido (102146)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1348934",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1348934",
-      "titulo": "Compra Directa 265/2026",
-      "organismo": "Ministerio de Defensa Nacional",
-      "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
-      "objeto": "MONITOREO ELECTROENCEFALOGRAFICO INTRAOPERATORIO EN NEUROCIRUGÍA Y CONTROL DE NERVIO FACIAL",
-      "recepcion_hasta": "2026-06-30T10:00",
-      "publicado": "2026-06-16T12:20",
-      "estado": "Adjudicada totalmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Monitoreo electroencefalográfico intraoperatorio (63161)"
       ],
       "visto_en": "2026-10-06"
     }
