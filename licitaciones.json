@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T21:48:05.381Z",
+  "actualizado": "2026-10-30T17:11:36.889Z",
   "vigentes": 0,
   "llamados": [
     {
@@ -866,23 +866,6 @@
       "apertura_electronica": false,
       "motivos": [
         "Polisomnografía - adulto (24557)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1351687",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1351687",
-      "titulo": "Concurso de Precios 10845/2026",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-07-01T15:30",
-      "publicado": "2026-06-26T14:20",
-      "estado": "Adjudicada totalmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Polisomnografía - adulto (24557)",
-        "EEG bajo sueño inducido (102146)"
       ],
       "visto_en": "2026-10-06"
     }
