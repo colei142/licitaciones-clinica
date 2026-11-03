@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-11-03T02:15:04.579Z",
-  "vigentes": 3,
+  "actualizado": "2026-11-03T17:39:32.768Z",
+  "vigentes": 6,
   "llamados": [
+    {
+      "id": "1381897",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1381897",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-05T08:15",
+      "publicado": "2026-11-03T07:55",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Potencial evocado auditivo (24558)"
+      ],
+      "visto_en": "2026-11-03"
+    },
+    {
+      "id": "1381887",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1381887",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-05T08:00",
+      "publicado": "2026-11-03T07:50",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-11-03"
+    },
+    {
+      "id": "1381834",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1381834",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-05T07:20",
+      "publicado": "2026-11-03T07:10",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)"
+      ],
+      "visto_en": "2026-11-03"
+    },
     {
       "id": "1380988",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1380988",
@@ -25,7 +73,7 @@
       "organismo": "Banco de Previsión Social",
       "unidad": "Banco de Previsión Social",
       "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-11-03T15:30",
+      "recepcion_hasta": "2026-11-04T15:30",
       "publicado": "2026-10-20T15:15",
       "estado": "",
       "apertura_electronica": true,
@@ -59,7 +107,7 @@
       "organismo": "Ministerio de Defensa Nacional",
       "unidad": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
       "objeto": "ELECTROENCEFALOGRAMA Y VIDEO ELECTROENCEFALOGRAMA PARA ADULTOS Y NIÑOS",
-      "recepcion_hasta": "2026-11-03T10:00",
+      "recepcion_hasta": "2026-11-10T10:00",
       "publicado": "2026-10-15T09:10",
       "estado": "",
       "apertura_electronica": true,
@@ -95,7 +143,7 @@
       "organismo": "Banco de Previsión Social",
       "unidad": "Banco de Previsión Social",
       "objeto": "Servicio de estudios otorrinolaringológicos para beneficiarios de la Gerencia de Prestaciones de Salud del BPS.",
-      "recepcion_hasta": "2026-11-03T14:00",
+      "recepcion_hasta": "2026-11-04T14:00",
       "publicado": "2026-10-08T16:45",
       "estado": "",
       "apertura_electronica": true,
@@ -183,7 +231,7 @@
       "objeto": "Estudios médicos , ped 26566, servicio Unidad de Estudios",
       "recepcion_hasta": "2026-10-06T12:00",
       "publicado": "2026-10-01T12:20",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": true,
       "motivos": [
         "Potencial evocado auditivo (24558)",
