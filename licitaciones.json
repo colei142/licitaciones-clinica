@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-11-05T23:59:36.986Z",
-  "vigentes": 6,
+  "actualizado": "2026-11-06T17:17:47.550Z",
+  "vigentes": 5,
   "llamados": [
+    {
+      "id": "1384423",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1384423",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital Maciel",
+      "objeto": "ESTUDIOS MÉDICOS (ARCHIVO ADJUNTO)",
+      "recepcion_hasta": "2026-11-10T10:00",
+      "publicado": "2026-11-06T12:10",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Video electroencefalograma (72794)"
+      ],
+      "visto_en": "2026-11-06"
+    },
+    {
+      "id": "1384227",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1384227",
+      "titulo": "",
+      "organismo": "Banco de Previsión Social",
+      "unidad": "Banco de Previsión Social",
+      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
+      "recepcion_hasta": "2026-11-11T15:30",
+      "publicado": "2026-11-06T09:25",
+      "estado": "",
+      "apertura_electronica": true,
+      "motivos": [
+        "Potencial evocado auditivo (24558)"
+      ],
+      "visto_en": "2026-11-06"
+    },
     {
       "id": "1383653",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1383653",
@@ -27,7 +59,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-11-05T08:15",
       "publicado": "2026-11-03T07:55",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": false,
       "motivos": [
         "Potencial evocado auditivo (24558)"
@@ -43,7 +75,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-11-05T08:00",
       "publicado": "2026-11-03T07:50",
-      "estado": "",
+      "estado": "Adjudicada totalmente",
       "apertura_electronica": false,
       "motivos": [
         "Estudio neuropsicológico (36678)"
@@ -89,7 +121,7 @@
       "organismo": "Banco de Previsión Social",
       "unidad": "Banco de Previsión Social",
       "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-11-05T16:13",
+      "recepcion_hasta": "2026-11-06T16:38",
       "publicado": "2026-10-20T15:15",
       "estado": "",
       "apertura_electronica": true,
