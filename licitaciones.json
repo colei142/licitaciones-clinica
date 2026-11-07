@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T22:50:00.035Z",
-  "vigentes": 5,
+  "actualizado": "2026-11-07T17:57:02.920Z",
+  "vigentes": 4,
   "llamados": [
     {
       "id": "1384423",
@@ -913,39 +913,6 @@
       "motivos": [
         "Potencial evocado visual (33298)",
         "Estudio neuropsicológico (36678)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1353589",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1353589",
-      "titulo": "",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-07-09T15:30",
-      "publicado": "2026-07-06T14:47",
-      "estado": "Declarada desierta",
-      "apertura_electronica": true,
-      "motivos": [
-        "Electroencefalograma (EEG) - adulto (33234)",
-        "Estudio eléctrico de 4 miembros (34720)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1349057",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1349057",
-      "titulo": "Compra Directa 1048/2026",
-      "organismo": "Administración de Servicios de Salud del Estado",
-      "unidad": "Hospital Maciel",
-      "objeto": "ESTUDIOS MEDICOS; EEG ( URGENTE)VER ADJUNTO",
-      "recepcion_hasta": "2026-07-09T10:00",
-      "publicado": "2026-07-01T07:35",
-      "estado": "Adjudicada parcialmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Electroencefalograma (EEG) - adulto (33234)"
       ],
       "visto_en": "2026-10-06"
     }
