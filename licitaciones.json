@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T00:12:40.880Z",
-  "vigentes": 3,
+  "actualizado": "2026-11-12T18:00:41.787Z",
+  "vigentes": 1,
   "llamados": [
     {
       "id": "1384423",
@@ -43,7 +43,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-11-09T08:25",
       "publicado": "2026-11-05T08:20",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": false,
       "motivos": [
         "Estudio neuropsicológico (36678)"
