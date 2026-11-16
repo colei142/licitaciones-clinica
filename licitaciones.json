@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-14T18:38:43.397Z",
-  "vigentes": 0,
+  "actualizado": "2026-11-16T20:05:38.555Z",
+  "vigentes": 1,
   "llamados": [
+    {
+      "id": "1386734",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1386734",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-18T08:10",
+      "publicado": "2026-11-16T11:32",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-11-16"
+    },
     {
       "id": "1384423",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1384423",
@@ -11,7 +27,7 @@
       "objeto": "ESTUDIOS MÉDICOS (ARCHIVO ADJUNTO)",
       "recepcion_hasta": "2026-11-11T10:00",
       "publicado": "2026-11-06T12:10",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": true,
       "motivos": [
         "Video electroencefalograma (72794)"
@@ -810,43 +826,6 @@
         "Potencial evocado auditivo (24558)",
         "Electroencefalograma (EEG) - adulto (33234)",
         "Polisomnografía - niño (35140)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1355933",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355933",
-      "titulo": "",
-      "organismo": "Administración de Servicios de Salud del Estado",
-      "unidad": "Red de Atención Primaria de San José",
-      "objeto": "ESTUDIOS VARIOS PARA SEIS MESES",
-      "recepcion_hasta": "2026-07-17T10:00",
-      "publicado": "2026-07-14T13:45",
-      "estado": "Adjudicada parcialmente",
-      "apertura_electronica": false,
-      "motivos": [
-        "Estudio eléctrico de miembros inferiores (34718)",
-        "Estudio eléctrico de miembros superiores (34719)",
-        "Estudio eléctrico de 1 miembro inferior (78416)",
-        "Estudio eléctrico de 1 miembro superior (78417)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1355698",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1355698",
-      "titulo": "",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-07-17T15:30",
-      "publicado": "2026-07-14T08:55",
-      "estado": "Adjudicada totalmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Potencial evocado visual (33298)",
-        "Polisomnografía - niño (35140)",
-        "EEG bajo sueño inducido (102146)"
       ],
       "visto_en": "2026-10-06"
     },
