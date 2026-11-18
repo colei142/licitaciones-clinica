@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-18T01:37:09.417Z",
-  "vigentes": 1,
+  "actualizado": "2026-11-18T18:44:28.338Z",
+  "vigentes": 2,
   "llamados": [
+    {
+      "id": "1387579",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1387579",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-20T07:35",
+      "publicado": "2026-11-18T07:15",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Estudio eléctrico de miembros superiores (34719)"
+      ],
+      "visto_en": "2026-11-18"
+    },
     {
       "id": "1386734",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1386734",
