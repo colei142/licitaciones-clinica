@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-19T01:02:04.333Z",
-  "vigentes": 2,
+  "actualizado": "2026-11-19T18:56:55.504Z",
+  "vigentes": 1,
   "llamados": [
     {
       "id": "1387579",
@@ -27,7 +27,7 @@
       "objeto": "Estudios preferentemente de la zona. Pago SIIF",
       "recepcion_hasta": "2026-11-18T08:10",
       "publicado": "2026-11-16T11:32",
-      "estado": "",
+      "estado": "Adjudicada parcialmente",
       "apertura_electronica": false,
       "motivos": [
         "Estudio neuropsicológico (36678)"
@@ -571,7 +571,7 @@
       "objeto": "ADQUISICIÓN DE ESTUDIOS DE ELECTROENCEFALOGRAMAS Y POTENCIALES EVOCADOS.-COTIZAR DE ACUERDO AL PLIEGO ADJUNTO.-",
       "recepcion_hasta": "2026-09-08T10:00",
       "publicado": "2026-08-26T13:50",
-      "estado": "",
+      "estado": "Adjudicada totalmente",
       "apertura_electronica": true,
       "motivos": [
         "Polisomnografía - adulto (24557)",
