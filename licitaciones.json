@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T20:33:57.821Z",
+  "actualizado": "2026-11-25T04:01:31.709Z",
   "vigentes": 0,
   "llamados": [
     {
@@ -774,24 +774,6 @@
       "apertura_electronica": false,
       "motivos": [
         "Estudio eléctrico de 4 miembros (34720)"
-      ],
-      "visto_en": "2026-10-06"
-    },
-    {
-      "id": "1357944",
-      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1357944",
-      "titulo": "",
-      "organismo": "Banco de Previsión Social",
-      "unidad": "Banco de Previsión Social",
-      "objeto": "ADQUISICIÓN DE ESTUDIOS Y/O PROCEDIMIENTOS MÉDICOS",
-      "recepcion_hasta": "2026-07-27T15:30",
-      "publicado": "2026-07-22T10:40",
-      "estado": "Adjudicada totalmente",
-      "apertura_electronica": true,
-      "motivos": [
-        "Polisomnografía - adulto (24557)",
-        "Electroencefalograma (EEG) - adulto (33234)",
-        "EEG prolongado - niño (79421)"
       ],
       "visto_en": "2026-10-06"
     }
