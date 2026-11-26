@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-11-26T02:44:02.368Z",
-  "vigentes": 0,
+  "actualizado": "2026-11-26T19:29:52.779Z",
+  "vigentes": 1,
   "llamados": [
+    {
+      "id": "1389790",
+      "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1389790",
+      "titulo": "",
+      "organismo": "Administración de Servicios de Salud del Estado",
+      "unidad": "Hospital de San Carlos",
+      "objeto": "Estudios preferentemente de la zona. Pago SIIF",
+      "recepcion_hasta": "2026-11-30T07:20",
+      "publicado": "2026-11-26T07:10",
+      "estado": "",
+      "apertura_electronica": false,
+      "motivos": [
+        "Electroencefalograma (EEG) - adulto (33234)",
+        "Estudio neuropsicológico (36678)"
+      ],
+      "visto_en": "2026-11-26"
+    },
     {
       "id": "1387579",
       "url": "https://www.comprasestatales.gub.uy/consultas/detalle/mostrar-llamado/1/id/1387579",
